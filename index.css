@@ -59,6 +59,10 @@ li button {
   padding-top: 50px;
 }
 
-.js-toDoForm .js-form input{
+.js-toDoForm input{
+  font-family: "THE선인장"
+}
+
+.js-form input {
   font-family: "THE선인장"
 }
